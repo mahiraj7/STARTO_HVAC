@@ -1,0 +1,6 @@
+{
+  "name": "Starto - 24/7 AI Booking Assistant for HVAC",
+  "description": "Never miss a booking. 24/7 AI booking assistants for US & UK HVAC businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
